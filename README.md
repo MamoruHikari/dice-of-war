@@ -55,7 +55,13 @@ This project is a console-based implementation of a **non-transitive dice game**
    npm install
    ```
 
-2. **Run the game:**
+2. **Build the project:**
+
+   ```bash
+   npm run build
+   ```
+   
+3. **Run the game:**
    ```bash
    ts-node src/index.ts <dice1> <dice2> <dice3> [<dice4> ...]
    ```
