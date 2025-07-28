@@ -1,4 +1,4 @@
-# DiceOfWar: A Non-Transitive Dice Game (Console, TypeScript)
+# Dice of War: Non-Transitive Dice Game (Console, TypeScript)
 
 This project is a console-based implementation of a **generalized non-transitive dice game** using TypeScript. It fully satisfies all requirements of the internship task specification, ensuring provable fairness, robust input validation, modular code organization, and clear, user-friendly CLI interaction.
 
